@@ -6,6 +6,7 @@ This write-up attempts to prepare a shared understanding of time and its mechani
 # Causality
 
 ## Basic
+
 The sense of forward Cause and Effect which we are familiar with. One event precedes another as its cause, with a logically consistent chain of events leading into the past.
 
 Multiple causes can lead to one effect, coupled with conditions that enable it. One cause may lead to multiple effects and you can have feedback where an effect gives rise to new causes and effects, including back to the cause which gave rise to it originally.
@@ -15,6 +16,7 @@ Despite our perceptions, "one cause -> one effect" is too basic to apply to real
 You can spin a cause and effect situation out to the Nth degree, but what we're mostly concerned with is the most important causal link in any context.
 
 ## Forwards
+
 In causality in our physical experience we generally consider both *time* and *causation* as a singular direction. You cannot take an action which will cause an effect in what we see as the past, which is now permanently behind us in time.
 
 A glass is pushed off a table, it smashes. The cause has already occurred and obeys the second law of thermodynamics - **Entropy**.
@@ -24,16 +26,19 @@ Another example, you are caught in a time-travel loop. If you give an essential 
 If that were true, then the item will continually degrade until its **Entropy** is maximized, meaning the object can no longer be part of the loop. This breaks down the timeline and prevents it from ever existing in the first place.
 
 **Entropy Paradox:**
+
 ![linked image](./images/Pasted%20image%2020231101190256.png)
 
 We can then understand that the flow of **Entropy**, or the direction it takes, is what we consider to be causality. This normally flows **Forwards**.
 
 ## Backwards
+
 In this sense, basic causation travels "forward" in our frame of reference, with the arrow of time, or Entropy, pointing toward the future. 
 
 For our own purposes, all we need to be thinking about is what the existence of backward causation can mean. How it works is a topic that can be explored in more depth later on.
 
 ### Philosophical Backwards Causation vs. Time Travel
+
 It is important to note the philosophical concept of backward causation should not be confused with backward causation that occurs through the process of time travel.
 
 These two concepts are only related in the sense that they both agree it is possible, through a process of cause and effect, to affect the past.
@@ -42,15 +47,18 @@ The difference between the two is that time travel involves a **Causal Loop**.
 Backward causation without time travel would involve an actual reversal of **time** or the direction the arrow of **entropy** is pointing in.
 
 ## The Problem With Time Travel
+
 **Paradoxes** -> The mere act of influencing the past through time-travel is itself a paradox. These come in many names, and you may be familiar with some like the contradictory *Grandfather Paradox*, the lack of free will in a *Pre-destination Paradox*, and the information loop of a *Bootstrap Paradox*.
 
 **Entropy Paradox:** See the section on [[#Forwards) causality.
 
 **Bootstrap Paradox:**
+
 ![linked image](./images/Pasted%20image%2020231101190237.png)
 
 
 **Time-Loops** -> To resolve most paradoxes, a time-loop is often required, but it is the death sentence of a narrative because it creates infinite paradoxes.
+
 ![linked image](./images/Pasted%20image%2020231101190014.png)
 
 **Conclusion:**
@@ -68,6 +76,7 @@ The second version of yourself is the one in the time machine, which is destined
 The third version of yourself is the double, who will exist at the same time as you and will continue into the future, while your original goes into the time machine.
 
 Your double and original can not interact, or the paradox is re-established.
+
 ![linked image](Time_Travel_Method-2.svg)
 
 # Perspectives of Time
@@ -91,12 +100,13 @@ This brings us to the **Ex Nihilo Paradox**.
 2. If backwards causation is possible, time loops are possible.
 3. If time loops are possible, uncaused events inside the loops are possible.
 4. Uncaused events are logically impossible
-Backwards time travel must be impossible.
+5. Backwards time travel must be impossible.
 
 ![linked image](./images/Pasted%20image%2020231101192006.png)
 
 
 # The Locality Problem
+
 We tend to apply our sense of observing time to the entire universe, because this makes sense to us. This causes a significant problem: **our sense of the present is meaningless on a galactic scale**.
 
 The "present time" only works within the small bubble we as humans have imagined for ourselves around our planet, Earth.
@@ -113,6 +123,7 @@ This might sound absurd, and pointless, because if you think about it the idea o
 How would we choose to measure the present if we could? The more we try to consider it, the more philosophical it becomes. But this idea of the present exists without the world regardless, and it's something we engage in naturally. This works as long as we stay within the bubble of our planet, where we live, but once we travel outside of this space we find that our sense of present begins to fall apart.
 
 Thus, it may be tempting to perceive the present as the edge of a wave which travels into the future.
+
 ![linked image](./images/Pasted%20image%2020231101193823.png)
 
 For our purposes, it is better off to think of the present as **not a thing at all**. Instead, every moment is more like a coordinate in a Space-Time grid block in our universe. Your position in this grid, and thus your frame of reference, affects your perception of the order of events.
@@ -126,6 +137,7 @@ Even standing a mile away from someone, waving at them, it will still have taken
 The further you get from the thing you are interacting with, the further separated you are in time, and thus your perceptions begin to diverge rapidly. 
 
 Imagine you are getting closer to a black hole as a thought experiment. Your sense of time becomes increasingly bent as you approach it, compared to somebody far away. Your perceptions of time are now very different. Your clocks will not run the same. As you wave to them, waving back will now become a difficult experience. You may wave, and they may wave back at a far later point in time from your perspective.
+
 ![linked image](./images/Pasted%20image%2020231101194713.png)
 
 ## The Role of Causality
@@ -148,10 +160,10 @@ If we define a series of simultaneous events, the yellow squares, then as we mov
 If the second observer also defines a set of simultaneous events to measure time, then from the perspective of the first observer, we will see the observer reacting to events which are not simultaneous form our own perspective of time.
 
 **From the perspective of the first observer, the clock of the second observer appears to be reacting to events originating from different points in time.
+
 ![linked image](./images/Pasted%20image%2020231101201838.png)
 
 In the above picture, the teal lines of the second observer are extending out into a 3rd dimension. We can correct the picture to be from their own perspective with a simple rotation.
-
 
 ![linked image](./images/Pasted%20image%2020231101201947.png)
 
@@ -165,7 +177,9 @@ From this, we gather the following:
 To visualize this, focus on the purple lines in this graph between the two observers. An event early in the green observer's past will happen far in the red observer's future, and vice-versa. By the time the red observer's future occurs, they will be seeing the green observer's past. They will both agree on the final order of events, even though these events happen at different times from their own perspectives.
 
 ![linked image](./images/Pasted%20image%2020231101203217.png)
+
 ## Linear vs. Non-Linear time
+
 We experience time **Linearly** with there being one "true" order of events at least from our perspective. We operate mostly on the first diagram, a wave of the "present" flowing into the future.
 
 To experience time **Non-Linearly** is, essentially, the same as living outside of time itself. The direction or flow of time itself has no effect on you and your perceptions would be vastly different than those of somebody experiencing time linearly from within a timeline.

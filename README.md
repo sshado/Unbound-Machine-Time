@@ -215,4 +215,18 @@ To experience time **Non-Linearly** is, essentially, the same as living outside 
 
 Does this mean that those who exist outside of Linear time then rise above this perception of the "present" and view reality like the block-diagram where all events exist as points, rather than a continuous wave of present passing into the future?
 
+The answer is grey, but ultimately is "not necessarily".
+
+## Higher Dimensions
+
+By considering a being in a higher dimension, say a 5th or 6th dimension beyond our own 4D space-time, would go a ways to explaining the behavior of a non-linear being. 
+
+Our universe need not exist within a strictly **Eternalist** interpretation of time. The future may be indeed continuously forming, but our perception of events may be influenced by things far older than our perception. If, for example, this higher dimensional being can arbitrarily alter its frame of reference, then it would only be constrained to any possible timeline.
+
+Borrowing our black hole analogy from earlier, this entity could choose to simultaneously exist very far from and very close to our own timeline. We would experience a past and future version of it from our perspective interacting with us, but it will never come from our future. Only its own future and past. In this sense, the future is not entirely fixed for either us or the non-linear entity.
+
+## God Machine
+
+So then if you consider the God Machine to be a higher dimensional entity, it may exist both as a primordial construct and a highly advanced version of itself simultaneously in our own timeline. Much like our friends in the black hole analogy, if you consider both of the friends to be the God Machine, then they are experiencing two different timelines simultaneously but ultimately they both agree on the order of events in the overall "machine".
+
 

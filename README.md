@@ -79,7 +79,7 @@ Backward causation without time travel would involve an actual reversal of **tim
 
 **Paradoxes** -> The mere act of influencing the past through time-travel is itself a paradox. These come in many names, and you may be familiar with some like the contradictory *Grandfather Paradox*, the lack of free will in a *Pre-destination Paradox*, and the information loop of a *Bootstrap Paradox*.
 
-**Entropy Paradox:** See the section on [[#Forwards) causality.
+**Entropy Paradox:** See the section on causality above.
 
 **Bootstrap Paradox:**
 

@@ -77,7 +77,7 @@ The third version of yourself is the double, who will exist at the same time as 
 
 Your double and original can not interact, or the paradox is re-established.
 
-![linked image](Time_Travel_Method-2.svg)
+![linked image](./images/Time_Travel_Method-2.png)
 
 # Perspectives of Time
 

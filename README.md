@@ -24,7 +24,7 @@ Another example, you are caught in a time-travel loop. If you give an essential 
 If that were true, then the item will continually degrade until its **Entropy** is maximized, meaning the object can no longer be part of the loop. This breaks down the timeline and prevents it from ever existing in the first place.
 
 **Entropy Paradox:**
-![[.\images\Pasted image 20231101190256.png]]
+![[\images\Pasted image 20231101190256.png]]
 
 We can then understand that the flow of **Entropy**, or the direction it takes, is what we consider to be causality. This normally flows **Forwards**.
 

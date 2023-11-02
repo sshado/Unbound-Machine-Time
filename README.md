@@ -24,7 +24,7 @@ Another example, you are caught in a time-travel loop. If you give an essential 
 If that were true, then the item will continually degrade until its **Entropy** is maximized, meaning the object can no longer be part of the loop. This breaks down the timeline and prevents it from ever existing in the first place.
 
 **Entropy Paradox:**
-![linked image]("./images/Pasted image 20231101190256.png")
+![linked image](./images/Pasted%20image%2020231101190256.png)
 
 We can then understand that the flow of **Entropy**, or the direction it takes, is what we consider to be causality. This normally flows **Forwards**.
 
@@ -47,11 +47,11 @@ Backward causation without time travel would involve an actual reversal of **tim
 **Entropy Paradox:** See the section on [[#Forwards) causality.
 
 **Bootstrap Paradox:**
-![linked image]("./images/Pasted image 20231101190237.png")
+![linked image](./images/Pasted%20image%2020231101190237.png)
 
 
 **Time-Loops** -> To resolve most paradoxes, a time-loop is often required, but it is the death sentence of a narrative because it creates infinite paradoxes.
-![linked image]("./images/Pasted image 20231101190014.png")
+![linked image](./images/Pasted%20image%2020231101190014.png)
 
 **Conclusion:**
 A paradox has a logically unacceptable conclusion, which takes something interesting or dramatic and makes it a pointless waste of time. Used incorrectly, time travel undermines the logic of key events, damages the foundations of a story, and serves only to be a short-cut which annoys anyone involved.
@@ -68,11 +68,11 @@ The second version of yourself is the one in the time machine, which is destined
 The third version of yourself is the double, who will exist at the same time as you and will continue into the future, while your original goes into the time machine.
 
 Your double and original can not interact, or the paradox is re-established.
-![linked image](Time_Travel_Method-2.svg")
+![linked image](Time_Travel_Method-2.svg)
 
 # Perspectives of Time
 
-![linked image]("./images/Pasted image 20231101191132.png")
+![linked image](./images/Pasted%20image%2020231101191132.png)
 
 **Growing Block View** ->The growing block view of time **holds that the past and present are real whilst the future is unreal**; as future events become present and real, they are added on to the growing block of reality.
 
@@ -93,7 +93,7 @@ This brings us to the **Ex Nihilo Paradox**.
 4. Uncaused events are logically impossible
 Backwards time travel must be impossible.
 
-![linked image]("./images/Pasted image 20231101192006.png")
+![linked image](./images/Pasted%20image%2020231101192006.png)
 
 
 # The Locality Problem
@@ -113,11 +113,11 @@ This might sound absurd, and pointless, because if you think about it the idea o
 How would we choose to measure the present if we could? The more we try to consider it, the more philosophical it becomes. But this idea of the present exists without the world regardless, and it's something we engage in naturally. This works as long as we stay within the bubble of our planet, where we live, but once we travel outside of this space we find that our sense of present begins to fall apart.
 
 Thus, it may be tempting to perceive the present as the edge of a wave which travels into the future.
-![linked image]("./images/Pasted image 20231101193823.png")
+![linked image](./images/Pasted%20image%2020231101193823.png)
 
 For our purposes, it is better off to think of the present as **not a thing at all**. Instead, every moment is more like a coordinate in a Space-Time grid block in our universe. Your position in this grid, and thus your frame of reference, affects your perception of the order of events.
 
-![linked image]("./images/Pasted image 20231101193908.png")
+![linked image](./images/Pasted%20image%2020231101193908.png)
 
 We only feel this idea of "present" because of how we function, how we perceive **Entropy**.
 
@@ -126,7 +126,7 @@ Even standing a mile away from someone, waving at them, it will still have taken
 The further you get from the thing you are interacting with, the further separated you are in time, and thus your perceptions begin to diverge rapidly. 
 
 Imagine you are getting closer to a black hole as a thought experiment. Your sense of time becomes increasingly bent as you approach it, compared to somebody far away. Your perceptions of time are now very different. Your clocks will not run the same. As you wave to them, waving back will now become a difficult experience. You may wave, and they may wave back at a far later point in time from your perspective.
-![linked image]("./images/Pasted image 20231101194713.png")
+![linked image](./images/Pasted%20image%2020231101194713.png)
 
 ## The Role of Causality
 
@@ -141,19 +141,19 @@ This is true, but there is a nuance which breaks our assumed perception. Whether
 
 Let us define two observers. The second observer is traveling at close to half the speed of light compared to the first observer.
 
-![linked image]("./images/Pasted image 20231101201529.png")
+![linked image](./images/Pasted%20image%2020231101201529.png)
 
 If we define a series of simultaneous events, the yellow squares, then as we move forward through time, we see these simultaneous events reach us, with the yellow lines representing the time it takes the light to arrive at the first observer. 
 
 If the second observer also defines a set of simultaneous events to measure time, then from the perspective of the first observer, we will see the observer reacting to events which are not simultaneous form our own perspective of time.
 
 **From the perspective of the first observer, the clock of the second observer appears to be reacting to events originating from different points in time.
-![linked image]("./images/Pasted image 20231101201838.png")
+![linked image](./images/Pasted%20image%2020231101201838.png)
 
 In the above picture, the teal lines of the second observer are extending out into a 3rd dimension. We can correct the picture to be from their own perspective with a simple rotation.
 
 
-![linked image]("./images/Pasted image 20231101201947.png")
+![linked image](./images/Pasted%20image%2020231101201947.png)
 
 If we then consider the perspective of the second observer, to them, these events were simultaneous. Their perception of causality defines their timeline.
 
@@ -164,7 +164,7 @@ From this, we gather the following:
 
 To visualize this, focus on the purple lines in this graph between the two observers. An event early in the green observer's past will happen far in the red observer's future, and vice-versa. By the time the red observer's future occurs, they will be seeing the green observer's past. They will both agree on the final order of events, even though these events happen at different times from their own perspectives.
 
-![linked image]("./images/Pasted image 20231101203217.png")
+![linked image](./images/Pasted%20image%2020231101203217.png)
 ## Linear vs. Non-Linear time
 We experience time **Linearly** with there being one "true" order of events at least from our perspective. We operate mostly on the first diagram, a wave of the "present" flowing into the future.
 

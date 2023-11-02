@@ -3,7 +3,36 @@
 As we delve into Dimension 0, we as a group will be experiencing extreme mechanics of spacetime which may on the surface appear to be incoherent.
 
 This write-up attempts to prepare a shared understanding of time and its mechanics as they apply to the Unbound Machine's "dimensions". This will hopefully serve to clarify *why* things work the way they do, and prepare the players for a journey into a non-linear narrative without losing the coherent plot we feel engaged in.
-# Causality
+
+## How this applies to Unbound Machine
+
+### Perception of Time
+
+Not everyone may be interested in the mechanics involved, so I have front-loaded this with the most relevant information to the game.
+
+Imagine that you are standing far away from a black hole with your friend. Their character decides to start walking toward it. You start counting out loud together "one, two, three..."
+
+As they get closer to the black hole, they hear you counting faster and faster from their perspective. You are both counting at the speed, but your friend is observing your future from their perspective. 
+
+From your perspective, your friend is moving slower and slower. As you move into the future, you are reacting to their past. 
+
+You both agree that when one of you reaches "1000", you will begin sprinting toward the other person, but never stop counting. Since you are standing still, you will reach "1000" first, while your friend is at "100" for example. Your friend hears you reach "1000" so they stop moving and wait for you to catch up.
+
+From the perspective of your friend, your counting will slow down until you reach them. Regardless, you arrive with a count of "1555", while they have a count of "200".
+
+You will both agree at which points in time you said the numbers, but you will have a different experience of time. For one person, 1555 counts have passed, while the other has only experienced 200 counts. The order of counts will be the same for both parties, but they will have experienced them at different rates.
+
+### Time Travel
+
+To maintain causality, your body must be physically separated from the world during travel for the length of time you intend to travel.
+
+By separating yourself from the present moment, you create a gap in time where you can travel backward without paradox. If you spend 24 hours in the time machine, then you travel 24 hours backward in time without issue.
+
+By extending the analogy to a multi-dimensional universe, there may exist a hundred iterations of yourself. If you travel to a timeline where you are already separated from the present, then you can effectively swap timelines with another iteration of yourself temporarily.
+
+The validity and risk of this depends entirely on how coherent your timelines are to each other. It is entirely possible to end up on an incoherent timeline if you are not careful with this method of travel.
+
+# Causality Mechanics
 
 ## Basic
 

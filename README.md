@@ -1,3 +1,5 @@
+# Time as a Construct in the Unbound Machine
+
 As we delve into Dimension 0, we as a group will be experiencing extreme mechanics of spacetime which may on the surface appear to be incoherent.
 
 This write-up attempts to prepare a shared understanding of time and its mechanics as they apply to the Unbound Machine's "dimensions". This will hopefully serve to clarify *why* things work the way they do, and prepare the players for a journey into a non-linear narrative without losing the coherent plot we feel engaged in.

@@ -203,7 +203,7 @@ From this, we gather the following:
 **The movement through space and the change in time *of an event* at the end-point of a traveler's timeline might change depending on who is watching.**
 **But ultimately, both observers will agree on the order of events.**
 
-To visualize this, focus on the purple lines in this graph between the two observers. An event early in the green observer's past will happen far in the red observer's future, and vice-versa. By the time the red observer's future occurs, they will be seeing the green observer's past. They will both agree on the final order of events, even though these events happen at different times from their own perspectives.
+To visualize this, focus on the **purple lines** in this graph between the two observers. An event early in the green observer's past will happen far in the red observer's future, and vice-versa. By the time the red observer's future occurs, they will be seeing the green observer's past. They will both agree on the final order of events, even though these events happen at different times from their own perspectives.
 
 ![linked image](./images/Pasted%20image%2020231101203217.png)
 
@@ -221,7 +221,9 @@ The answer is grey, but ultimately is "not necessarily".
 
 By considering a being in a higher dimension, say a 5th or 6th dimension beyond our own 4D space-time, would go a ways to explaining the behavior of a non-linear being. 
 
-Our universe need not exist within a strictly **Eternalist** interpretation of time. The future may be indeed continuously forming, but our perception of events may be influenced by things far older than our perception. If, for example, this higher dimensional being can arbitrarily alter its frame of reference, then it would only be constrained to any possible timeline.
+Our universe need not exist within a strictly **Eternalist** interpretation of time. The future may be indeed continuously forming, but our perception of events may be influenced by things far older than our perception. If, for example, this higher dimensional being can arbitrarily alter its frame of reference, then it would only be constrained to any possible timeline. 
+
+To visualize this: Reference the last graph above, the "**purple line**" represents a slice of all the points this non-linear being could exist on simultaneously.
 
 Borrowing our black hole analogy from earlier, this entity could choose to simultaneously exist very far from and very close to our own timeline. We would experience a past and future version of it from our perspective interacting with us, but it will never come from our future. Only its own future and past. In this sense, the future is not entirely fixed for either us or the non-linear entity.
 
